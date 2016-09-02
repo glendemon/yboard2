@@ -28,3 +28,4 @@ phpunit.phar
 
 # database
 /data
+/config/db.php
