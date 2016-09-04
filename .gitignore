@@ -28,4 +28,7 @@ phpunit.phar
 
 # database
 /data
+
+# configs
+/config/web.php
 /config/db.php
