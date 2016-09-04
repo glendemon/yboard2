@@ -20,8 +20,7 @@ $config = [
             'class' => 'yii\caching\FileCache',
         ],
         'user' => [
-            'identityClass' => 'app\models\User',
-            'enableAutoLogin' => true,
+            'identityClass' => 'dektrium\user\models\User',
         ],
         'authClientCollection' => [
             'class'   => \yii\authclient\Collection::className(),
